@@ -37,6 +37,7 @@ automovil.marca = "Chevrolet";
 
 
 Console.WriteLine("Todo corrio a la perfeccion");
+Console.WriteLine("Holamundo");
 public class Vehiculos
 {
     //atributos
